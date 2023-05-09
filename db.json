@@ -1,34 +1,37 @@
-[
-	{
-		"id" : 1,
-		"user" : 
+{
+	"appointments":
+	[
 		{
-			"id" : "user1"
+			"id" : 1,
+			"user" : 
+			{
+				"id" : "user1"
+			},
+			"date_creation" : "12/01/2020"
 		},
-		"date_creation" : "12/01/2020"
-	},
-	{
-		"id" : 2,
-		"user" : 
 		{
-			"id" : "user1"
+			"id" : 2,
+			"user" : 
+			{
+				"id" : "user1"
+			},
+			"date_creation" : "12/01/2020"
 		},
-		"date_creation" : "12/01/2020"
-	},
-	{
-		"id" : 3,
-		"user" : 
 		{
-			"id" : "user1"
+			"id" : 3,
+			"user" : 
+			{
+				"id" : "user1"
+			},
+			"date_creation" : "12/01/2020"
 		},
-		"date_creation" : "12/01/2020"
-	},
-	{
-		"id" : 4,
-		"user" : 
 		{
-			"id" : "user1"
-		},
-		"date_creation" : "12/01/2020"
-	}
-]
+			"id" : 4,
+			"user" : 
+			{
+				"id" : "user1"
+			},
+			"date_creation" : "12/01/2020"
+		}
+	]
+}
